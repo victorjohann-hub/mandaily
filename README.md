@@ -37,5 +37,8 @@ O objetivo do ManDaily é facilitar o cuidado com a saúde masculina, promovendo
 - Node-Cron
 
 
-🔗 Repositório original:
+
+
+
+🔗 Link do Repositório original:
 https://github.com/guivconB/mandaily
