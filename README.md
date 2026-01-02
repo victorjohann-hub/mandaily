@@ -1,16 +1,27 @@
 # mandaily
 
-A new Flutter project.
+## 📌 Sobre o Projeto
 
-## Getting Started
+Esta aplicação foi desenvolvida em equipe como parte do Projeto MVP 2025 para a Universidade Maurício de Nassau (UNINASSAU).
 
-This project is a starting point for a Flutter application.
+ManDaily é um aplicativo móvel desenvolvido para o Projeto MVP de 2025, com o tema de "Saúde do Homem".
 
-A few resources to get you started if this is your first Flutter project:
+É uma aplicação pensada para auxiliar na organização e planejamento de consultas e remédios contendo criação de conta,
+notificações customizadas e detalhadas (nome do remédio, dosagem, horários recorrentes).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+👨‍💻 Minha contribuição:
+- Desenvolvimento do Backend (Módulos "Usuário, "Medicamento", "Consultas")
+- Implementação das API RESTs
+- Testes de Requisições utilizando o "Postman"
+- Integração com banco de dados MongoDB Atlas
+
+Tecnologias Utilizadas: Node.js, Express, MongoDB Atlas, Postman, Node-Cron
+
+
+🔗 Repositório original:
+https://github.com/guivconB/mandaily
